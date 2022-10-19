@@ -1,0 +1,9 @@
+{
+	"name": "ADFAirline",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15af6411-983c-4953-806e-1e258c19a6b2",
+		"tenantId": "cd135858-792d-4502-8c54-c8a24306be70"
+	}
+}
